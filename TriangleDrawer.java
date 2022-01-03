@@ -5,6 +5,7 @@ public class TriangleDrawer {
         int col = 0;
         int row = 0;
         int Size = N;
+        int test = 1;
         while (row <= Size) {
             row = row + 1;
             col = 0;
